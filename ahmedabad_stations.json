@@ -1,0 +1,6858 @@
+[
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.0242,
+    "longitude": 72.556999,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.013746,
+    "longitude": 72.506477,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.052956,
+    "longitude": 72.548477,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.044277,
+    "longitude": 72.546799,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.017349,
+    "longitude": 72.596519,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Plot No 29, next to Thermal Power Station, Thermal Power Plant Area, Sector 30, Gandhinagar ",
+    "latitude": 23.247661,
+    "longitude": 72.668615,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "MG Ahmedabad Makarba MG Ahmedabad Plot no 2, Ground Floor, Survey no 841/1 and 2, 10, Signature 1, Near Old Railway Line, SG Highway, Makarba, Ahmedabad",
+    "latitude": 22.996682,
+    "longitude": 72.498227,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Ground Floor, Ashwamegh Elegance, opposite SBI Zonal Office, H Colony, Ambawadi",
+    "latitude": 23.023235,
+    "longitude": 72.548489,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Frizbee, opp. Tea Post, near Hotel Taj",
+    "latitude": 23.045301,
+    "longitude": 72.484457,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.029259,
+    "longitude": 72.530418,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.2042,
+    "longitude": 72.47203,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 22.93706,
+    "longitude": 72.54789,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.290542,
+    "longitude": 72.763343,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 22.923616,
+    "longitude": 72.551063,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.11532,
+    "longitude": 72.50486,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.091967,
+    "longitude": 72.492196,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.230018,
+    "longitude": 72.723832,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Plot No. 4, Shantisadan Society, Nr. Parimal",
+    "latitude": 23.019641,
+    "longitude": 72.558096,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Thaltej Underbridge, Thaltej, Ahmedabad,",
+    "latitude": 23.048198,
+    "longitude": 72.515997,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.045512,
+    "longitude": 72.539544,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.148663,
+    "longitude": 72.693407,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Sarkhej - Gadhinagar Highway, Thaltej",
+    "latitude": 23.057806,
+    "longitude": 72.521139,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.036885,
+    "longitude": 72.613911,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Abhinav Girls Hostel, Bodakdev, Ahmedabad,",
+    "latitude": 23.040513,
+    "longitude": 72.511304,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Ramdev Nagar Cross Road, Satellite Rd,",
+    "latitude": 23.027638,
+    "longitude": 72.512553,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Behind Ganesh Meridian Complex Sola Road,",
+    "latitude": 23.075644,
+    "longitude": 72.526971,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Ground Floor and First Floor, Final Plot No. 71/2, Sun Court, Ghatlodiya, Sola",
+    "latitude": 23.072275,
+    "longitude": 72.524391,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "FP-87/2,TP-44,Beside Vraj Vihar Bungalow Nr",
+    "latitude": 23.120453,
+    "longitude": 72.612679,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.08934,
+    "longitude": 72.59051,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Planet House, Radhe Circle, Khokhra Rd, Near",
+    "latitude": 23.00379,
+    "longitude": 72.617195,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 22.95283,
+    "longitude": 72.46884,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 22.98551,
+    "longitude": 72.44349,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Jagatpur Rd, near BSNL Office, off Sarkhej - ",
+    "latitude": 23.114332,
+    "longitude": 72.540532,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "7F87+2FF,",
+    "latitude": 23.265928,
+    "longitude": 72.463386,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "XJR6+MM5, Dalal Colony, Muktimedan, Daxini So",
+    "latitude": 22.991636,
+    "longitude": 72.611834,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "506,Floor, Tryshka Desire, Nigam Nagar, Chand",
+    "latitude": 23.112324,
+    "longitude": 72.584314,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "BAPUNGAR",
+    "latitude": 23.032069,
+    "longitude": 72.623364,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "XH4V+PX5, New Mani Nagar, Narolgam,",
+    "latitude": 22.956803,
+    "longitude": 72.594963,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Amikunj Tenament, New India Colony, Nikol,",
+    "latitude": 23.062832,
+    "longitude": 72.668698,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Nr. Auda Auditorium, 150 ft, Main Rd, Shela, ",
+    "latitude": 23.013873,
+    "longitude": 72.451852,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "6MG5+WWP, Sector 10A, Sector 10, Gandhinagar,",
+    "latitude": 23.219602,
+    "longitude": 72.659659,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.0055,
+    "longitude": 72.6591,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 22.865609,
+    "longitude": 72.745669,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.039875,
+    "longitude": 72.66213,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.00513,
+    "longitude": 72.66853,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.125496,
+    "longitude": 72.582982,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.237028,
+    "longitude": 72.713917,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.261206,
+    "longitude": 72.641854,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Concept Motors | Pvt Ltd, Sanathal Cir, nr.",
+    "latitude": 22.958806,
+    "longitude": 72.476894,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Plot No. 30 & 31, TP-7, Survey No. 169/2 And",
+    "latitude": 23.184866,
+    "longitude": 72.622352,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Lambha, Ahmedabad, Ahmedabad, Gujarat, India, 382440",
+    "latitude": 22.930111,
+    "longitude": 72.597098,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Phase 4, GIDC Chhatral, Chhatral, Kalol, Gandhinagar, Gujarat, India, 382729",
+    "latitude": 23.283143,
+    "longitude": 72.440456,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Narol - Naroda Road, Isanpur, Ahmedabad, Ahmedabad, Gujarat, India, 382405",
+    "latitude": 22.972902,
+    "longitude": 72.593632,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "CTM - Ramol Road, Amraiwadi, Ahmedabad, Ahmedabad, Gujarat, India, 382449",
+    "latitude": 22.984302,
+    "longitude": 72.651427,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Gujarat State Highway 3, Ahmedabad, Gujarat, India, 382435",
+    "latitude": 22.917622,
+    "longitude": 72.699117,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Gujarat State Highway 3, Kheda, Gujarat, India, 387110",
+    "latitude": 22.875087,
+    "longitude": 72.728426,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Sola, Ahmedabad, Ahmedabad, Gujarat, India, 380060",
+    "latitude": 23.08838,
+    "longitude": 72.494851,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "PRL Colony, Thaltej, Ahmedabad, Gujarat, India, 380058",
+    "latitude": 23.038158,
+    "longitude": 72.479713,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Ahmedabad, Gujarat, India, 380060",
+    "latitude": 23.132448,
+    "longitude": 72.524215,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Ahmedabad, Gujarat, India, 382213",
+    "latitude": 22.948777,
+    "longitude": 72.463533,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Sector 6, Gandhinagar, Gujarat, India, 382006",
+    "latitude": 23.216082,
+    "longitude": 72.639699,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "KK Nagar, Ghatlodiya, Ahmedabad, Ahmedabad, Gujarat, India, 380061",
+    "latitude": 23.074246,
+    "longitude": 72.555104,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Visalpur, Ahmedabad, Gujarat, India, 382210",
+    "latitude": 22.936171,
+    "longitude": 72.498709,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Narolgam, Phase - III, Ellisbridge, Rancharda, Ahmedabad, Gujarat, India, 380058",
+    "latitude": 23.022505,
+    "longitude": 72.571365,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Jetalpur, Ahmedabad, Gujarat, India, 382427",
+    "latitude": 22.884401,
+    "longitude": 72.592899,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Kubadthal, Ahmedabad, Gujarat, India, 382433",
+    "latitude": 23.00561,
+    "longitude": 72.758165,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Aristo Anandam",
+    "latitude": 23.128274,
+    "longitude": 72.551819,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Drive In Rd, Sunrise Park, Thaltej",
+    "latitude": 23.04717,
+    "longitude": 72.525296,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "2, Phase IV, Vatva GIDC",
+    "latitude": 22.959562,
+    "longitude": 72.651135,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "WHHH+448 Ahmedabad, Gujarat, 382427",
+    "latitude": 22.92672,
+    "longitude": 72.574347,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Survey No. 220, Sarkhej Sanand Road ,Near",
+    "latitude": 22.991146,
+    "longitude": 72.496764,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Orchard GGC",
+    "latitude": 23.116343,
+    "longitude": 72.554546,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Ansh Amanta, D-604, Kavisha Canvas Road",
+    "latitude": 23.021756,
+    "longitude": 72.429764,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.013058,
+    "longitude": 72.600801,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.002405,
+    "longitude": 72.60098,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Greater Ahmedabad & Gandhinagar",
+    "latitude": 23.038277,
+    "longitude": 72.56377,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Lubi Corporate Rd, behind Luby corporation campus, near Hotal Hillock, Ahmedabad, Gujarat 382421, India",
+    "latitude": 23.134737,
+    "longitude": 72.563029,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Nr.kankaria gate no-5 beside siddhivinayak c",
+    "latitude": 23.005018,
+    "longitude": 72.605371,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "sr.no.85/2 devnagar patiya near gota cross r",
+    "latitude": 23.113933,
+    "longitude": 72.535824,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "42,forton south Near nana chiloda, Behind Ga",
+    "latitude": 23.105586,
+    "longitude": 72.677242,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "26,Hariprasad Nagar,  BH Dharnidhar Derasar",
+    "latitude": 23.006736,
+    "longitude": 72.548084,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "fp,76/2,b/h, tej moter sindhubhavan road,bod",
+    "latitude": 23.039464,
+    "longitude": 72.50993,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Near D Mart Jodhpur-Satelite",
+    "latitude": 23.019832,
+    "longitude": 72.529417,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "sardar patel ringroad village lambha",
+    "latitude": 22.926586,
+    "longitude": 72.576964,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Site Address:- Plot No A/2 502 & 503, GIDC Vatva Phase 4, Vatwa GIDC Road, Metrol Industries, Vatva GIDC, Ahmedabad, Gujarat \u2013 382445",
+    "latitude": 22.958778,
+    "longitude": 72.642546,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Abhushan mahal",
+    "latitude": 23.115467,
+    "longitude": 72.584231,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Koba Raysan Road, Raysan, Gandhinagar",
+    "latitude": 23.161546,
+    "longitude": 72.658201,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Survey No. 3222/11, Nr. Mukesh Industries Ishanpur- Narol Highway ,NH 8, Narol, Ahmedabad -383 443",
+    "latitude": 22.976236,
+    "longitude": 72.601711,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Plot No.34, GIDC Phase -3 Naroda Ahmedabad-382330",
+    "latitude": 23.068797,
+    "longitude": 72.653589,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Supernova Automobiles Pvt LtdSurvey No 173/3/2Behind Rajpath ClubOpp SK FarmBeside Patron BuildingSG Highway Ahmedabad380054",
+    "latitude": 23.035222,
+    "longitude": 72.499778,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "West Coast Motors Pvt Ltd, FP No. 106, TPS44, Chandkheda, Sabarmati",
+    "latitude": 23.120919,
+    "longitude": 72.606075,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "59/1, Bhaikakanagar, Thaltej",
+    "latitude": 23.056711,
+    "longitude": 72.510242,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Plot No. 5503/2 Vatva GIDC, cross Road",
+    "latitude": 22.980016,
+    "longitude": 72.634176,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": null,
+    "name": "Statiq Station",
+    "brand": "Statiq",
+    "address": "Ansh Amanta, D-604, Kavisha Canvas Road",
+    "latitude": 23.019876,
+    "longitude": 72.431747,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": null,
+        "charger_name": "Statiq Standard Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Banks_SBI_SBI_LaL_Darwaja",
+    "name": "Tata Power - State Bank of India Lal Darwaja (Private Charger)",
+    "brand": "Tata Power EZ Charge",
+    "address": "State Bank of India Lal Darwaja (Private Charger), Ahmedabad",
+    "latitude": 23.0241544,
+    "longitude": 72.5794739,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Banks_SBI_SBI_LaL_Darwaja_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "FAULTED",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Commercial_Carecay_SG_Highway_Mohammad_Pura_Road",
+    "name": "Tata Power - Carecay SG Highway Mohammad Pura Road",
+    "brand": "Tata Power EZ Charge",
+    "address": "Carecay SG Highway Mohammad Pura Road, Ahmedabad",
+    "latitude": 23.0092076,
+    "longitude": 72.486272,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Commercial_Carecay_SG_Highway_Mohammad_Pura_Road_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Govt_GMRDS_GMRDS_Block_15_Sec_10",
+    "name": "Tata Power - GMRDS Block -15 Sector 10 Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "GMRDS Block -15 Sector 10 Charging Station, Ahmedabad",
+    "latitude": 23.227154,
+    "longitude": 72.6600147,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Govt_GMRDS_GMRDS_Block_15_Sec_10_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Govt_GMRDS_GMRDS_Chemistry_Lab_Rayasan",
+    "name": "Tata Power - GMRDS Chemistry Lab Rayasan",
+    "brand": "Tata Power EZ Charge",
+    "address": "GMRDS Chemistry Lab Rayasan, Ahmedabad",
+    "latitude": 23.15271,
+    "longitude": 72.671076,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Govt_GMRDS_GMRDS_Chemistry_Lab_Rayasan_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_HPCL_BAPA_SITARAM_FUEL_STATION",
+    "name": "Tata Power - HPCL BAPA SITARAM FUEL Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "HPCL BAPA SITARAM FUEL Charging Station, Ahmedabad",
+    "latitude": 23.2813882,
+    "longitude": 72.7596216,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_HPCL_BAPA_SITARAM_FUEL_STATION_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_HPCL_COMCO_Chandkheda",
+    "name": "Tata Power - HPCL COMCO Chandkheda",
+    "brand": "Tata Power EZ Charge",
+    "address": "HPCL COMCO Chandkheda, Ahmedabad",
+    "latitude": 23.103999,
+    "longitude": 72.57635,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_HPCL_COMCO_Chandkheda_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_HPCL_COMCO_Nikol",
+    "name": "Tata Power - HPCL COMCO Nikol",
+    "brand": "Tata Power EZ Charge",
+    "address": "HPCL COMCO Nikol, Ahmedabad",
+    "latitude": 23.034789,
+    "longitude": 72.675745,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_HPCL_COMCO_Nikol_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_HPCL_HP_Service_Center_Sola",
+    "name": "Tata Power - HP Service Center Sola Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "HP Service Center Sola Charging Station, Ahmedabad",
+    "latitude": 23.0633903,
+    "longitude": 72.5317625,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_HPCL_HP_Service_Center_Sola_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_HPCL_NRO_Gota",
+    "name": "Tata Power - HPCL lNRO Gota",
+    "brand": "Tata Power EZ Charge",
+    "address": "HPCL lNRO Gota, Ahmedabad",
+    "latitude": 23.103803,
+    "longitude": 72.539895,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_HPCL_NRO_Gota_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_HPCL_Vijay_Automobiles_Sec_11",
+    "name": "Tata Power - HPCL Vijay Automobiles Sec 11 Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "HPCL Vijay Automobiles Sec 11 Charging Station, Ahmedabad",
+    "latitude": 23.2152334,
+    "longitude": 72.6487072,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_HPCL_Vijay_Automobiles_Sec_11_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_HPLC_HP_Autocare_Bodakdev",
+    "name": "Tata Power - HP Autocare Bodakdev Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "HP Autocare Bodakdev Charging Station, Ahmedabad",
+    "latitude": 23.0332201,
+    "longitude": 72.5137528,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_HPLC_HP_Autocare_Bodakdev_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Hotels_Fairfield_by_Marriott_Ahmedabad",
+    "name": "Tata Power - Fairfield by Marriott",
+    "brand": "Tata Power EZ Charge",
+    "address": "Fairfield by Marriott, Ahmedabad",
+    "latitude": 23.0522787,
+    "longitude": 72.5710882,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Hotels_Fairfield_by_Marriott_Ahmedabad_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Hotels_Hotel_Taj_Skyline_Shilaj",
+    "name": "Tata Power - Hotel Taj Skyline Shilaj",
+    "brand": "Tata Power EZ Charge",
+    "address": "Hotel Taj Skyline Shilaj, Ahmedabad",
+    "latitude": 23.044447,
+    "longitude": 72.481961,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Hotels_Hotel_Taj_Skyline_Shilaj_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Hotels_Impertiv_Bloom_Suites_Thaltej",
+    "name": "Tata Power - Hotel Bloom Suites, Thaltej",
+    "brand": "Tata Power EZ Charge",
+    "address": "Hotel Bloom Suites, Thaltej, Ahmedabad",
+    "latitude": 23.0510351,
+    "longitude": 72.5251634,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Hotels_Impertiv_Bloom_Suites_Thaltej_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Hotels_Narayani_Hotels_and_resorts",
+    "name": "Tata Power - Narayani Hotels and resorts",
+    "brand": "Tata Power EZ Charge",
+    "address": "Narayani Hotels and resorts, Ahmedabad",
+    "latitude": 23.112044,
+    "longitude": 72.6295396,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Hotels_Narayani_Hotels_and_resorts_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Hotels_Seven_Leisure_Club",
+    "name": "Tata Power - Seven Leisure Club Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "Seven Leisure Club Charging Station, Ahmedabad",
+    "latitude": 23.006075,
+    "longitude": 72.454426,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Hotels_Seven_Leisure_Club_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_IOCL_Ashtavinayak_Petroleum_Hirapur_Ahmedabad",
+    "name": "Tata Power - IOCL Ashtavinayak Petroleum Hirapur Ahmedabad Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "IOCL Ashtavinayak Petroleum Hirapur Ahmedabad Charging Station, Ahmedabad",
+    "latitude": 22.910407,
+    "longitude": 72.705088,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_IOCL_Ashtavinayak_Petroleum_Hirapur_Ahmedabad_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_IOCL_Jay_Petroleum_Kuha_Ahmedabad",
+    "name": "Tata Power - IOCL Jay Petroleum Kuha Ahmedabad Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "IOCL Jay Petroleum Kuha Ahmedabad Charging Station, Ahmedabad",
+    "latitude": 22.997543,
+    "longitude": 72.799472,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_IOCL_Jay_Petroleum_Kuha_Ahmedabad_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_IOCL_Kailash_Petroleum_Naroda",
+    "name": "Tata Power - IOCL Kailash Petroleum Naroda Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "IOCL Kailash Petroleum Naroda Charging Station, Ahmedabad",
+    "latitude": 23.0760224,
+    "longitude": 72.6515867,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_IOCL_Kailash_Petroleum_Naroda_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_IOCL_Laxmi_Narayan_Petroleum_Changodar",
+    "name": "Tata Power - IOCL Laxmi Narayan Petroleum Changodar Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "IOCL Laxmi Narayan Petroleum Changodar Charging Station, Ahmedabad",
+    "latitude": 22.9379678,
+    "longitude": 72.4556204,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_IOCL_Laxmi_Narayan_Petroleum_Changodar_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_IOCL_Rudraraj_Petroleum_Uvarsad",
+    "name": "Tata Power - IOCL Rudraraj Petroleum Uvarsad Ahmedabad Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "IOCL Rudraraj Petroleum Uvarsad Ahmedabad Charging Station, Ahmedabad",
+    "latitude": 23.190648,
+    "longitude": 72.585033,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_IOCL_Rudraraj_Petroleum_Uvarsad_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_IOCL_Sardar_Petro_Station_Bakrol_Ahmedabad",
+    "name": "Tata Power - IOCL Sardar Petrol Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "IOCL Sardar Petrol Station, Ahmedabad",
+    "latitude": 22.935404,
+    "longitude": 72.520954,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_IOCL_Sardar_Petro_Station_Bakrol_Ahmedabad_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "CHARGING",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_KIA_Westcoast_Motors_Pvt_Ltd",
+    "name": "Tata Power - Westcoast KIA",
+    "brand": "Tata Power EZ Charge",
+    "address": "Westcoast KIA, Ahmedabad",
+    "latitude": 23.0737974,
+    "longitude": 72.5162415,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_KIA_Westcoast_Motors_Pvt_Ltd_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Residential_Elysium_Adani_Shantigram",
+    "name": "Tata Power - Elysium, Adani Shantigram (Private Charger)",
+    "brand": "Tata Power EZ Charge",
+    "address": "Elysium, Adani Shantigram (Private Charger), Ahmedabad",
+    "latitude": 23.16044,
+    "longitude": 72.543116,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Residential_Elysium_Adani_Shantigram_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_SBI_SBI_Ahmedabad_Cantonment_Branch",
+    "name": "Tata Power - SBI Ahmedabad Cantonment Branch (Private charger)",
+    "brand": "Tata Power EZ Charge",
+    "address": "SBI Ahmedabad Cantonment Branch (Private charger), Ahmedabad",
+    "latitude": 23.065016,
+    "longitude": 72.609704,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_SBI_SBI_Ahmedabad_Cantonment_Branch_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TML_Harsolia_Brothers_Gandhinagar",
+    "name": "Tata Power - TML Harsolia Brothers Gandhinagar Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "TML Harsolia Brothers Gandhinagar Charging Station, Ahmedabad",
+    "latitude": 23.254196,
+    "longitude": 72.659209,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TML_Harsolia_Brothers_Gandhinagar_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TML_Infinity_Vehicles",
+    "name": "Tata Power - TML Infinity Vehicles",
+    "brand": "Tata Power EZ Charge",
+    "address": "TML Infinity Vehicles, Ahmedabad",
+    "latitude": 23.0002345,
+    "longitude": 72.5367056,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TML_Infinity_Vehicles_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TML_Progressive_Cars_Chandkheda",
+    "name": "Tata Power - Progressive Cars Chandkheda",
+    "brand": "Tata Power EZ Charge",
+    "address": "Progressive Cars Chandkheda, Ahmedabad",
+    "latitude": 23.110609,
+    "longitude": 72.604923,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TML_Progressive_Cars_Chandkheda_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TML_Progressive_Cars_SG_Highway_Ahmedabad",
+    "name": "Tata Power - TML Progressive Cars SG Highway Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "TML Progressive Cars SG Highway Charging Station, Ahmedabad",
+    "latitude": 23.014261,
+    "longitude": 72.503947,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TML_Progressive_Cars_SG_Highway_Ahmedabad_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TML_Riya_Autolink_BRTS_Bus_Stand",
+    "name": "Tata Power - Tata Motors (Riya Autolink)",
+    "brand": "Tata Power EZ Charge",
+    "address": "Tata Motors (Riya Autolink), Ahmedabad",
+    "latitude": 23.025549,
+    "longitude": 72.480087,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TML_Riya_Autolink_BRTS_Bus_Stand_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "FAULTED",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TML_Supernova_Motors_pvt_ltd",
+    "name": "Tata Power - Supernova Motors pvt ltd",
+    "brand": "Tata Power EZ Charge",
+    "address": "Supernova Motors pvt ltd, Ahmedabad",
+    "latitude": 23.101945,
+    "longitude": 72.527736,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TML_Supernova_Motors_pvt_ltd_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TPC_CP_CELESTIA_CO_OP_HOUSING_AND_SHOP_SERVICE_SOCIETY_LTD",
+    "name": "Tata Power - CELESTIA CO OP HOUSING AND SHOP SERVICE SOCIETY LTD",
+    "brand": "Tata Power EZ Charge",
+    "address": "CELESTIA CO OP HOUSING AND SHOP SERVICE SOCIETY LTD, Ahmedabad",
+    "latitude": 23.0645803,
+    "longitude": 72.5460179,
+    "chargers_count": 1,
+    "total_sockets": 4,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TPC_CP_CELESTIA_CO_OP_HOUSING_AND_SHOP_SERVICE_SOCIETY_LTD_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 30.0,
+        "type": "DC",
+        "sockets_count": 4,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          },
+          {
+            "id": 3,
+            "display_id": 3,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          },
+          {
+            "id": 4,
+            "display_id": 4,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TPC_CP_GUJCOMASOL",
+    "name": "Tata Power - GUJCOMASOL Charging Station",
+    "brand": "Tata Power EZ Charge",
+    "address": "GUJCOMASOL Charging Station, Ahmedabad",
+    "latitude": 23.240797,
+    "longitude": 72.628446,
+    "chargers_count": 1,
+    "total_sockets": 5,
+    "total_capacity_kw": 150.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TPC_CP_GUJCOMASOL_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 30.0,
+        "type": "DC",
+        "sockets_count": 5,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          },
+          {
+            "id": 3,
+            "display_id": 3,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          },
+          {
+            "id": 4,
+            "display_id": 4,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          },
+          {
+            "id": 5,
+            "display_id": 5,
+            "type": "CCS-2 (30kW)",
+            "status": "AVAILABLE",
+            "power_kw": 30.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_TPC_CP_SWAGAT_HOLIDAY_MALL",
+    "name": "Tata Power - SWAGAT HOLIDAY MALL",
+    "brand": "Tata Power EZ Charge",
+    "address": "SWAGAT HOLIDAY MALL, Ahmedabad",
+    "latitude": 23.188967,
+    "longitude": 72.6101784,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "TP_TPC_CP_SWAGAT_HOLIDAY_MALL_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "TATA_Westside_Ellisbridge",
+    "name": "Tata Power - Westside, Ellisbridge",
+    "brand": "Tata Power EZ Charge",
+    "address": "Westside, Ellisbridge, Ahmedabad",
+    "latitude": 23.02938,
+    "longitude": 72.56142,
+    "chargers_count": 1,
+    "total_sockets": 1,
+    "total_capacity_kw": 60.0,
+    "chargers": [
+      {
+        "charger_id": "TP_Westside_Ellisbridge_C1",
+        "charger_name": "Tata Power EZ Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 1,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0ca9",
+    "name": "SURYA PETROLEUM AHMEDABAD",
+    "brand": "ChargeZone",
+    "address": "SURVEY NO. 113/1 JAGATPUR - CHENPUR ROAD CHENPUR DIST. AHMEDABAD",
+    "latitude": 23.1049719,
+    "longitude": 72.55452458,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b95bff3a45a55def57e",
+        "charger_name": "IOCLQR4132",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b95bff3a45a55def57b",
+        "charger_name": "IOCLQR4132",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0ce8",
+    "name": "ATUL AUTOMOBILES",
+    "brand": "ChargeZone",
+    "address": "PALDI, AHMEDABAD",
+    "latitude": 23.0121,
+    "longitude": 72.5621,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b95bff3a45a55def584",
+        "charger_name": "IOCLQR3273",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b94bff3a45a55def4d2",
+        "charger_name": "IOCLQR3273",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b552a6dd3b44cadf0e4",
+    "name": "AUNSH PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "NARAYAN NAGAR ROAD NEAR JOSA PARK CROSS RD PALDI AHMEDABAD AHMEDABAD ",
+    "latitude": 23.0045,
+    "longitude": 72.5645,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b82bff3a45a55deb8af",
+        "charger_name": "IOCLGJAC8002",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b82bff3a45a55deb8a6",
+        "charger_name": "IOCLGJAC8002",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b522a6dd3b44cadd525",
+    "name": "Arjun Petroleum",
+    "brand": "ChargeZone",
+    "address": "Village Chaloda, Tal. Dholka, Dist. Ahmedabad ",
+    "latitude": 22.8087172,
+    "longitude": 72.4480818,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b73bff3a45a55de8610",
+        "charger_name": "IOCLGUJAC848",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0c77",
+    "name": "BHADAJ PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "VILLAGE BHADAJ TAL. GHATLODIA AHMEDABAD",
+    "latitude": 23.087914,
+    "longitude": 72.487298,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b94bff3a45a55def35a",
+        "charger_name": "IOCLQR4137",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b94bff3a45a55def397",
+        "charger_name": "IOCLQR4137",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae186b",
+    "name": "Balaji Petroleum- Gujarat",
+    "brand": "ChargeZone",
+    "address": "Village Pirana Pirana Aslali Bypass Road ,Dist Ahmedabad 382405",
+    "latitude": 22.9595,
+    "longitude": 72.5543,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b9dbff3a45a55df0f6b",
+        "charger_name": "IOCLGUJDC1687",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0ba3",
+    "name": "CHENPUR PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "CHENPUR ROAD AT. CHENPUR NEW RANIP AHMEDABAD",
+    "latitude": 23.0962,
+    "longitude": 72.5601,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b93bff3a45a55def255",
+        "charger_name": "IOCLQR4125",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b93bff3a45a55def261",
+        "charger_name": "IOCLQR4125",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0d09",
+    "name": "COCO  VASNA",
+    "brand": "ChargeZone",
+    "address": "JAY ASHVINBHAI BRAHMBHATT, NEAR ANJALI CROSS ROADS,, VASNA, AHMEDABAD",
+    "latitude": 23.0049564,
+    "longitude": 72.55292183,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b95bff3a45a55def587",
+        "charger_name": "IOCLQR3261",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b95bff3a45a55def5a3",
+        "charger_name": "IOCLQR3261",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae07ff",
+    "name": "COCO KANKARIA",
+    "brand": "ChargeZone",
+    "address": "KANKARIA BESIDES APSARA CINEMA KANKARIA AHMEDABAD",
+    "latitude": 23.0036,
+    "longitude": 72.5973,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae07ff_C1",
+        "charger_name": "COCO KANKARIA Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b562a6dd3b44cadf3b0",
+    "name": "CORPORATE PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "JODHPUR CHAR RASTA SATELLITE AHME JODHPUR AHMEDABAD ",
+    "latitude": 23.0269,
+    "longitude": 72.5261,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b84bff3a45a55debf65",
+        "charger_name": "IOCLGJAC8001",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b84bff3a45a55debf28",
+        "charger_name": "IOCLGJAC8001",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0ceb",
+    "name": "DIPTI MOTORS",
+    "brand": "ChargeZone",
+    "address": "INDIAN OIL DEALER,, OPP.JAIN MERCHANT SOC. PALDI, AHMEDABAD, DIST.AHMEDABAD",
+    "latitude": 23.0085,
+    "longitude": 72.5603,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0ceb_C1",
+        "charger_name": "DIPTI MOTORS Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae1773",
+    "name": "Dev Petroleum",
+    "brand": "ChargeZone",
+    "address": "NEAR BOPAL JUNCTION,S. P. RING ROAD,AHMEDABAD",
+    "latitude": 23.03281,
+    "longitude": 72.47954,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b592a6dd3b44cae1773_C1",
+        "charger_name": "Dev Petroleum Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0bcd",
+    "name": "GUJARAT AUTO,USMANPURA",
+    "brand": "ChargeZone",
+    "address": "INDIAN OIL DEALER,USMANPURA,AHMEDABAD",
+    "latitude": 23.04816,
+    "longitude": 72.57079,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0bcd_C1",
+        "charger_name": "GUJARAT AUTO,USMANPURA Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b552a6dd3b44cadee9d",
+    "name": "GURUDEV PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "NR GEETA-GAURI CINEMA MAIN ROAD ODHAV AHMEDABAD",
+    "latitude": 23.0185,
+    "longitude": 72.639,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b552a6dd3b44cadee9d_C1",
+        "charger_name": "GURUDEV PETROLEUM Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae1883",
+    "name": "Gujrat Auto Narol",
+    "brand": "ChargeZone",
+    "address": "INDIAN OIL DEALER  39 KM,AHMEDABAD-BOMBAY NH8 NAROL,AHMEDABAD",
+    "latitude": 22.9632,
+    "longitude": 72.5905,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b592a6dd3b44cae1883_C1",
+        "charger_name": "Gujrat Auto Narol Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0ab0",
+    "name": "ISHWAR PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "BLOCK NO.303 AMLI-BOPAL ROAD AHMEDABAD",
+    "latitude": 23.0293,
+    "longitude": 72.475,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0ab0_C1",
+        "charger_name": "ISHWAR PETROLEUM Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b552a6dd3b44caded8c",
+    "name": "JRO Moraiya",
+    "brand": "ChargeZone",
+    "address": "Sub Thath Dilipbhai Gufulbhai, Hmedabad Rajkot Highway At Moraiya Dist Ahmedabad 380051",
+    "latitude": 22.910054,
+    "longitude": 72.430752,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b552a6dd3b44caded8c_C1",
+        "charger_name": "JRO Moraiya Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0c74",
+    "name": "LAXMI FUEL POINT",
+    "brand": "ChargeZone",
+    "address": "VILLAGE GHUMA,TAL.DASCROI,DIST. AHMEDABAD",
+    "latitude": 23.01318,
+    "longitude": 72.45716,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0c74_C1",
+        "charger_name": "LAXMI FUEL POINT Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae08d1",
+    "name": "MADHURAM PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "VILLAGE TELAV TAL. SANAND DIST. AHMEDABAD",
+    "latitude": 22.984556,
+    "longitude": 72.430898,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae08d1_C1",
+        "charger_name": "MADHURAM PETROLEUM Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b562a6dd3b44cadf6d3",
+    "name": "NEEL PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "REVENUE SURVEY NO.64 FP NO.10 TPS NO.3 AT ODHAV-II AHMEDABAD DIST. AHMEDABAD",
+    "latitude": 23.0246,
+    "longitude": 72.6714,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b86bff3a45a55dec60e",
+        "charger_name": "IOCLQR4121",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b86bff3a45a55dec61f",
+        "charger_name": "IOCLQR4121",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e5351a9b0a1be6c38bb7a6",
+    "name": "New Milan Petroleum",
+    "brand": "ChargeZone",
+    "address": "khatraj chowkdi,Nr.Hotel Gangotri,nr.arvind Mill,khatraj, Ahmedabad, Gujarat 382721",
+    "latitude": 23.147911,
+    "longitude": 72.445049,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e5351a9b0a1be6c38bb7a6_C1",
+        "charger_name": "New Milan Petroleum Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b562a6dd3b44cadfa09",
+    "name": "PRIT PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "F.P.NO.81 TPS NO.16, MOUJE SHAHERKOTDA, SARASPUR-AHMEDABAD",
+    "latitude": 23.0311,
+    "longitude": 72.6053,
+    "chargers_count": 2,
+    "total_sockets": 4,
+    "total_capacity_kw": 240.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b88bff3a45a55decb1f",
+        "charger_name": "IOCLQR4130",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      },
+      {
+        "charger_id": "67e58b88bff3a45a55decb06",
+        "charger_name": "IOCLQR4130",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae1895",
+    "name": "Palak Petroleum",
+    "brand": "ChargeZone",
+    "address": "MORAIYA RAJKOT-AHMEDABAD NH8A,MORAIYA,MORAIYA",
+    "latitude": 22.9039,
+    "longitude": 72.4235,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b592a6dd3b44cae1895_C1",
+        "charger_name": "Palak Petroleum Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae177c",
+    "name": "Parth Petro Station",
+    "brand": "ChargeZone",
+    "address": "AT VATVA,AHMEDABAD CITY,AHMEDABAD CITY ",
+    "latitude": 22.9360044,
+    "longitude": 72.6246068,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b592a6dd3b44cae177c_C1",
+        "charger_name": "Parth Petro Station Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b572a6dd3b44cae02b8",
+    "name": "Pranchi Gasoline",
+    "brand": "ChargeZone",
+    "address": "GOTA VILLAGE,GOTA,AHMEDABAD",
+    "latitude": 23.0944,
+    "longitude": 72.5358,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b572a6dd3b44cae02b8_C1",
+        "charger_name": "Pranchi Gasoline Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0a21",
+    "name": "SERVICES AUTO",
+    "brand": "ChargeZone",
+    "address": "INDIAN OIL DEALER NR SARDAR P STADIUM XAVIERS SCHOOL ROAD AHMEDABAD",
+    "latitude": 23.0445,
+    "longitude": 72.561,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0a21_C1",
+        "charger_name": "SERVICES AUTO Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0e15",
+    "name": "SHREENATHJI AUTO POINT",
+    "brand": "ChargeZone",
+    "address": "RAKHIYAL, AHMEDABAD, AHMEDABAD",
+    "latitude": 23.0109,
+    "longitude": 72.6186,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0e15_C1",
+        "charger_name": "SHREENATHJI AUTO POINT Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b542a6dd3b44cade60e",
+    "name": "Shree Gokulesh Petroleum Narol",
+    "brand": "ChargeZone",
+    "address": "Indian Oil Dealer Nh8 Opp.Transport Nagar NH 8 Narol Ahmedabad Dist-Ahmedabad.382405 ",
+    "latitude": 22.9668496,
+    "longitude": 72.5846688,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b542a6dd3b44cade60e_C1",
+        "charger_name": "Shree Gokulesh Petroleum Narol Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b572a6dd3b44cae04b4",
+    "name": "VIHAT PETROLEUM ( ADHOC )",
+    "brand": "ChargeZone",
+    "address": "SAIJPURBHOGA NARODA AHMEDABAD",
+    "latitude": 23.0686,
+    "longitude": 72.6455,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b572a6dd3b44cae04b4_C1",
+        "charger_name": "VIHAT PETROLEUM ( ADHOC ) Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_69ca28ae831bc9c443e4deea",
+    "name": "chargeMOD | Olive Greens EVCS | Gota",
+    "brand": "ChargeZone",
+    "address": "Sarkej-Gandhinagar Hwy, Gota, Ahmedabad",
+    "latitude": 23.10408,
+    "longitude": 72.5338,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "69ca28ae831bc9c443e4deea_C1",
+        "charger_name": "chargeMOD | Olive Greens EVCS | Gota Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_652f86883f17449afc48cc2a",
+    "name": "GJ | Gandhinagar | Anantam Clubs & Resorts",
+    "brand": "ChargeZone",
+    "address": "Mahudi, Highway, Pindarda Village, Gandhinagar, Gujarat 382610",
+    "latitude": 23.333419745295174,
+    "longitude": 72.68781810668276,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "652f87a73f17449afc490660",
+        "charger_name": "ChargeZone Charger 1",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0c12",
+    "name": "STAR PETROLEUM (GandhiNagar)",
+    "brand": "ChargeZone",
+    "address": "VILLAGE BHAT TAL. GANDHINAGAR DIST. GANDHINAGAR",
+    "latitude": 23.1024,
+    "longitude": 72.6305,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0c12_C1",
+        "charger_name": "STAR PETROLEUM (GandhiNagar) Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b522a6dd3b44cadd6b6",
+    "name": "Aditya High Octant Point",
+    "brand": "ChargeZone",
+    "address": "VILLAGE VASAN,TAL GANDHINAGAR,VASAN ",
+    "latitude": 23.317737,
+    "longitude": 72.63990164,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b522a6dd3b44cadd6b6_C1",
+        "charger_name": "Aditya High Octant Point Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae16db",
+    "name": "Maa Janki Devi Petroleum (347644)",
+    "brand": "ChargeZone",
+    "address": "DASHELA,SURVEY NO. 505 VILLAGE - DASHELA,GANDHINAGAR",
+    "latitude": 23.2583969,
+    "longitude": 72.743821,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b592a6dd3b44cae16db_C1",
+        "charger_name": "Maa Janki Devi Petroleum (347644) Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae172e",
+    "name": "Murlidhar Petroleum (354468)",
+    "brand": "ChargeZone",
+    "address": "VALAD DIST.GANDHINAGAR VILLAGE VALAD TALUKA GANADHI NA,GANDHINAGR",
+    "latitude": 23.1474641,
+    "longitude": 72.6900732,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b592a6dd3b44cae172e_C1",
+        "charger_name": "Murlidhar Petroleum (354468) Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b592a6dd3b44cae1856",
+    "name": "Ranjit Automobiles",
+    "brand": "ChargeZone",
+    "address": "BODKADEV,SARKHEJ-GANDHINAGAR HIGHWAY,BODAKDEV",
+    "latitude": 23.0413,
+    "longitude": 72.5126,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b592a6dd3b44cae1856_C1",
+        "charger_name": "Ranjit Automobiles Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b542a6dd3b44cade785",
+    "name": "SHIVALAY PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "VILLAGE  PALSANA,TAL. KALOL,DIST. GANDHINAGAR ",
+    "latitude": 23.18866,
+    "longitude": 72.50621,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b542a6dd3b44cade785_C1",
+        "charger_name": "SHIVALAY PETROLEUM Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0932",
+    "name": "SHRI GANESH PETROLEUM",
+    "brand": "ChargeZone",
+    "address": " VILLAGE RAKANPUR, CHAR RASTA P.O. SANTEJ, TA - KALOL, DISTRICT GANDHINAGAR",
+    "latitude": 23.10043,
+    "longitude": 72.48231,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0932_C1",
+        "charger_name": "SHRI GANESH PETROLEUM Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b522a6dd3b44cadd44f",
+    "name": "Sarba Petroleum",
+    "brand": "ChargeZone",
+    "address": "Vavol-Tindoda Road Left side At Vavol District Gandhinagar",
+    "latitude": 23.2299,
+    "longitude": 72.6158,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b522a6dd3b44cadd44f_C1",
+        "charger_name": "Sarba Petroleum Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b572a6dd3b44cae0532",
+    "name": "Shreeji Krupa Petroleum KSK",
+    "brand": "ChargeZone",
+    "address": "Rupal - Sardhav Road Village Rupal Tal. & District Gandhinagar",
+    "latitude": 23.1833,
+    "longitude": 72.3521,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b572a6dd3b44cae0532_C1",
+        "charger_name": "Shreeji Krupa Petroleum KSK Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b582a6dd3b44cae0acb",
+    "name": "VIDHI PETROLEUM",
+    "brand": "ChargeZone",
+    "address": "PLOT NO. 1650 SECTOR 6 GANDHI NGR GANDHINAGAR DIST. GANDHINAGAR",
+    "latitude": 23.2095,
+    "longitude": 72.6358,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b582a6dd3b44cae0acb_C1",
+        "charger_name": "VIDHI PETROLEUM Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "CZ_67e58b5a2a6dd3b44cae2538",
+    "name": "Parmar Automobiles Adhoc",
+    "brand": "ChargeZone",
+    "address": "Opp. Indane Bottling Plant Sanand - Viramgam Road Vadanagar Sanand",
+    "latitude": 23.0042,
+    "longitude": 72.3509,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "67e58b5a2a6dd3b44cae2538_C1",
+        "charger_name": "Parmar Automobiles Adhoc Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_97",
+    "name": "Jiobp Venus Atlantis",
+    "brand": "Jio-bp pulse",
+    "address": "100 Feet Rd, Near Shell Petrol Pump, Prahlad Nagar, Ahmedabad, Gujarat",
+    "latitude": 23.01141,
+    "longitude": 72.51209,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_97_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_377",
+    "name": "Jiobp Jio-bp Mobility Station, Chiloda",
+    "brand": "Jio-bp pulse",
+    "address": "NH8, SURVEY NO. 270 /P, OPP ADHARSHILA SCHOOL, VILLAGE VALAD, NEAR MILESTONE 506, DIST. GANDHINAGAR \u2013 382355",
+    "latitude": 23.139125,
+    "longitude": 72.687283,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_377_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_479",
+    "name": "Jiobp Hotel Pearl and Restaurant, Ahmedabad",
+    "brand": "Jio-bp pulse",
+    "address": "Survey No 12A,17B Hotel Pearl And Restaurant  Sarkhej Bavla  Highway Rd,  Opp Divya Dham Ashram Changodar Ahmedabad Gujarat 382213",
+    "latitude": 22.924375,
+    "longitude": 72.442916,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_479_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_636",
+    "name": "Jiobp Alvish Motors, Ahemdabad- TATA.ev Megacharger",
+    "brand": "Jio-bp pulse",
+    "address": "Alvish Motors Survey No-154 Fatehwadi,Vejalpur, Ahmedabad-382210",
+    "latitude": 22.9451474,
+    "longitude": 72.4862634,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_636_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_37",
+    "name": "Jiobp Nexus Ahmedabad One",
+    "brand": "Jio-bp pulse",
+    "address": "Nexus Ahmedabad One, Near Vastrapur Lake",
+    "latitude": 23.03976812,
+    "longitude": 72.52999337,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_37_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_38",
+    "name": "Jiobp Reliance Mall, Shahibaug",
+    "brand": "Jio-bp pulse",
+    "address": "Advance Mills Compound, Opp. Swaminarayan Temple, Shahibaug Main Road,",
+    "latitude": 23.043956,
+    "longitude": 72.588732,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_38_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_2280",
+    "name": "Jiobp Sankalp Infinity",
+    "brand": "Jio-bp pulse",
+    "address": "Sankalp Infinity, Sardar Patel Ring Rd, Opp. Lubi Pump, Nana Chiloda, Ahmedabad, Gujarat 382330",
+    "latitude": 23.1143197,
+    "longitude": 72.6607738,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_2280_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_98",
+    "name": "Jiobp TRP Mall",
+    "brand": "Jio-bp pulse",
+    "address": "The Retail Park (TRP) Bopal, Ghuma BRTS Road, Rajyash City, Central Bopal, Ahmedabad",
+    "latitude": 23.030631,
+    "longitude": 72.47123,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_98_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_210",
+    "name": "Jiobp Solaris Business Hub, Ahmedabad",
+    "brand": "Jio-bp pulse",
+    "address": "Solaris Business Hub,Sola Road,Bhuyangdev Char Rasta,Ahmedabad,Gujarat,pin-380013",
+    "latitude": 23.058266,
+    "longitude": 72.539134,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_210_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_336",
+    "name": "Jiobp Ved Arcade Mall, Opp. Vastral Lake",
+    "brand": "Jio-bp pulse",
+    "address": "Ved Arcade Mall, Opposite Vastral Lake 200 Ft, Sadar Patel Ring Road, Vastral,",
+    "latitude": 23.0005589,
+    "longitude": 72.6658155,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_336_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_2297",
+    "name": "Jiobp The Landmark",
+    "brand": "Jio-bp pulse",
+    "address": "Block No. 110/A-111, THE LANDMARK Kudasan Road, Near Kansar Restaurant, Kudasan, Gandhinagar, Gujarat 382421",
+    "latitude": 23.176005,
+    "longitude": 72.62952,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_2297_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_728",
+    "name": "Jiobp CWC, Ahmedabad",
+    "brand": "Jio-bp pulse",
+    "address": "Central Warehouse, Opp. P&T Colony, Shahalam, Ahmedabad-380028",
+    "latitude": 22.9982,
+    "longitude": 72.5877297,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_728_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_411",
+    "name": "Jiobp Hotel Honest",
+    "brand": "Jio-bp pulse",
+    "address": "Block / Survey No.159/A, Ground Floor, Village Dhanap Opp. Giyod Mataji Temple, Taluka-Gandhinagar, Dhanap, Gujarat 382355",
+    "latitude": 23.28382,
+    "longitude": 72.761544,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_411_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_2625",
+    "name": "Jiobp Atlanta Business Hub Commercial Coop Service Society Ltd",
+    "brand": "Jio-bp pulse",
+    "address": "3rd Floor, The Atlanta Business Hub, Sardar Patel Ring Rd, GIDC Naroda, Ahmedabad, Gujarat 382330",
+    "latitude": 23.1104282,
+    "longitude": 72.6737205,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_2625_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_2901",
+    "name": "Jio-bp Mobility Station, Chhala option-1 & Option-2",
+    "brand": "Jio-bp pulse",
+    "address": "Survey No 968 Chiloda Himmatnagar Road, NH 48, Chhala, Gujarat 382320, Chiloda(Naroda), Gandhinagar, Gujarat, 382320",
+    "latitude": 23.32209881,
+    "longitude": 72.77819151,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_2901_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_96",
+    "name": "Jiobp Venus Amadeus",
+    "brand": "Jio-bp pulse",
+    "address": "Jodhpur Village Rd,Jodhpur Village,Ahmedabad",
+    "latitude": 23.02512,
+    "longitude": 72.52677,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_96_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station_id": "JIO_77",
+    "name": "Jiobp Venus Stratum, Ahmedabad",
+    "brand": "Jio-bp pulse",
+    "address": "Venus Stratum, Jhansi Ki Rani, Surendra mangaldas Road, Satellite Rd, Nehru Nagar, Ahmedabad, Gujarat - 380015",
+    "latitude": 23.021854,
+    "longitude": 72.537925,
+    "chargers_count": 1,
+    "total_sockets": 2,
+    "total_capacity_kw": 120.0,
+    "chargers": [
+      {
+        "charger_id": "JIO_77_C1",
+        "charger_name": "Jio-bp pulse Fast Unit",
+        "power_kw": 60.0,
+        "type": "DC",
+        "sockets_count": 2,
+        "connectors": [
+          {
+            "id": 1,
+            "display_id": 1,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          },
+          {
+            "id": 2,
+            "display_id": 2,
+            "type": "CCS-2 (60kW)",
+            "status": "AVAILABLE",
+            "power_kw": 60.0
+          }
+        ]
+      }
+    ]
+  }
+]
