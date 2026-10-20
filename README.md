@@ -3,13 +3,13 @@
 Live operational command center and high-precision telemetry engine for the Greater Ahmedabad & Gandhinagar metropolitan area across the Sabarmati, SG Highway, and GIFT City corridors.
 
 ### Network Coverage
-- **Metropolitan Grid:** 188 deduplicated public charging hubs
-- **Hardware Capacity:** 431 physical guns | 31,065.6 kW installed grid load
+- **Metropolitan Grid:** 210 deduplicated public & fleet charging hubs
+- **Hardware Capacity:** 500 physical guns | 34,933.6 kW installed grid load
 - **CPO Integration:**
-  - ChargeZone (Gujarat HQ): 155 sockets
-  - Statiq Network: 120 sockets
-  - Tata Power EZ Charge: 53 sockets
-  - Jio-bp pulse (GOBP): 34 sockets
+  - ChargeZone (Gujarat HQ & Fleet): 205 sockets
+  - Statiq Network: 129 sockets
+  - Tata Power EZ Charge: 57 sockets
+  - Jio-bp pulse (Public + Fleet): 40 sockets
   - goEgo Network: 26 sockets
   - GLIDA (MG Motor): 12 sockets
   - BPCL: 11 sockets
