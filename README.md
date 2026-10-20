@@ -4,12 +4,19 @@ Live operational command center and high-precision telemetry engine for the Grea
 
 ### Network Coverage
 - **Metropolitan Grid:** 188 deduplicated public charging hubs
-- **Hardware Capacity:** 377 physical guns | 22,350.0 kW installed grid load
+- **Hardware Capacity:** 431 physical guns | 31,065.6 kW installed grid load
 - **CPO Integration:**
-  - Statiq Network: 188 sockets
-  - ChargeZone (Gujarat HQ): 102 sockets
+  - ChargeZone (Gujarat HQ): 155 sockets
+  - Statiq Network: 120 sockets
   - Tata Power EZ Charge: 53 sockets
   - Jio-bp pulse (GOBP): 34 sockets
+  - goEgo Network: 26 sockets
+  - GLIDA (MG Motor): 12 sockets
+  - BPCL: 11 sockets
+  - Shell Recharge: 10 sockets
+  - Torrent Power: 7 sockets
+  - Sunfuel: 2 sockets
+  - HPCL: 1 socket
 
 ### Architecture & Standby Policy
 - **Zero Synthetic Data:** 100% genuine hardware telemetry directly queried from CPO cloud APIs and OCPP gateways.
